@@ -1,6 +1,7 @@
 # Linked_list
 
 Here I tried to figure out how linked list works. First time i met this topic on hackerrank 30 Days of Code, where different issues were presented. I couldn't understand how does it work and I even take a bit long break for a month. After that I came back to solve it and thats what i have.  
+
     class Node:
         def __init__(self,data):
             self.data = data
